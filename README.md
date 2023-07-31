@@ -1,6 +1,7 @@
 # Stuff
 
-1)News(Apni khabre idhar update karte rehna)
+News(Apni khabre idhar update karte rehna):
+1)1st round mein most probably khali simulation banana hai
 
 
 
